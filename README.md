@@ -11,6 +11,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://https://mail.google.com/mail/u/0/#inbox/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaysFernanda23&show_icons=true&theme=tokyonight)
+ <br> <a href="https://github.com/anuraghazra/convoychat">
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LaysFernanda23&layout=compact&langs_count=8&card_width=220" />
+</a> </br>
 
 
 ### Technologies Studied &#128187;
@@ -21,3 +24,6 @@
 <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 <img align="center" alt="office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+
+
+
