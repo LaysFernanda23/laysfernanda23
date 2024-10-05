@@ -28,6 +28,7 @@
 <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 <img align="center" alt="office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+<img align="center" alt="java" src="https://www.flaticon.com/br/icone-gratis/java_5968282?term=java&page=1&position=2&origin=search&related_id=5968282"/>
 
 
 
