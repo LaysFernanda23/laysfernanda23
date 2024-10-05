@@ -2,6 +2,10 @@
 
 ### Hello! I'm Lays!! &#128075;
 
+### Estudante de Engenharia de Software  &#128075;
+### Atualmente Estudando a Linguagem Java e Banco de Dados 
+
+
 
 <hr>
 
