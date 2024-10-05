@@ -3,7 +3,7 @@
 ### Hello! I'm Lays!! &#128075;
 
 ### Estudante de Engenharia de Software  &#128075;
-### Atualmente Estudando a Linguagem Java e Banco de Dados 
+### Atualmente Estudando a Linguagem Java e Banco de Dados &#128187;
 
 
 
@@ -20,14 +20,7 @@
 </a> </br>
 
 
-### Technologies Studied &#128187;
 
-<div sytle="display":inline_block><br/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-<img align="center" alt="java" src="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="/>
 
 
 
